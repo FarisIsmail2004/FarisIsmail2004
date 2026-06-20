@@ -19,5 +19,5 @@ Two-time Dean's List awardee, currently looking for Flutter roles.
 
 ## 📫 How to reach me
 - Email: farisismail221@gmail.com
-- LinkedIn: www.linkedin.com/in/faris-ismail-54756220a
+- LinkedIn: www.linkedin.com/in/faris-ismail2004
 - Portfolio / pinned projects: see below 👇
