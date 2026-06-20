@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Faris 👋
 
-<!--
-**FarisIsmail2004/FarisIsmail2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer and final-year BSc (Hons) Information Technology student at
+Sunway University, focused on building cross-platform mobile apps with Dart.
+Two-time Dean's List awardee, currently looking for Flutter roles.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- **MarketMate** — an AI-assisted hyperlocal discovery platform for informal
+  traders in Malaysia. Flutter + Supabase, with AI features via the Claude API.
+- **Run Tracker** — a running app with background GPS tracking and run history.
+  Built with Flutter, Riverpod, and Supabase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & technologies
+- **Languages:** Dart
+- **Mobile:** Flutter
+- **State management:** Riverpod
+- **Backend & data:** Supabase
+- **Architecture:** MVVM, feature-first structure, repository pattern
+
+## 📫 How to reach me
+- Email: farisismail221@gmail.com
+- LinkedIn: www.linkedin.com/in/faris-ismail-54756220a
+- Portfolio / pinned projects: see below 👇
